@@ -13,7 +13,7 @@ were taken from librosa. The Log-Attack time, Harmonic Spectral Variation, Harmo
 using Short Time Fourier Transform (STFT). The amplifiers frequecy responce was also measured using a sinusoidal chirp and the recorded data was filtered with
 a Savitsky-Golay filter to give a smooth legible frequency responce. 
 
-*3D STFT of E Chord Through Vox AC15:* 
+*3D STFT of E Chord Through JFET emulation Amplifier:* 
 ![alt text](https://github.com/AidanJST/MPEG7-Guitar-Amp-Features/blob/main/img/Vox.png)
 
 *JFET Circuit*
