@@ -17,7 +17,7 @@ a Savitsky-Golay filter to give a smooth legible frequency responce.
 ![alt text](https://github.com/AidanJST/MPEG7-Guitar-Amp-Features/blob/main/img/Vox.png)
 
 *JFET Circuit*
-![alt text](https://github.com/AidanJST/MPEG7-Guitar-Amp-Features/blob/main/img/PreAmpStage1.png)
+![alt text](https://github.com/AidanJST/MPEG7-Guitar-Amp-Features/blob/main/img/Amp.png)
 
 
 
