@@ -14,7 +14,7 @@ using Short Time Fourier Transform (STFT). The amplifiers frequecy responce was 
 a Savitsky-Golay filter to give a smooth legible frequency responce. 
 
 *3D STFT of E Chord Through JFET emulation Amplifier:* 
-![alt text](https://github.com/AidanJST/MPEG7-Guitar-Amp-Features/blob/main/img/Vox.png | width=60)
+![alt text](https://github.com/AidanJST/MPEG7-Guitar-Amp-Features/blob/main/img/Vox.png)
 
 *JFET Circuit*
 ![alt text](https://github.com/AidanJST/MPEG7-Guitar-Amp-Features/blob/main/img/Amp.png)
